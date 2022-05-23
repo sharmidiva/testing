@@ -1,0 +1,6 @@
+uname1=//input[@id='txtUsername']
+pass1=//input[@id='txtPassword']
+login1=//input[@id='btnLogin']
+welcome1=//*[@id="welcome"]
+logout1=//a[contains(text(),'Logout')]
+logout2=//*[@id="welcome-menu"]/ul/li[3]/a
